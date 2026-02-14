@@ -1,5 +1,5 @@
 """
-WSGI config for greatkart project.
+WSGI config for VoltKart project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
